@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace MvcApplication1
+namespace app2
 {
     public class BundleConfig
     {
